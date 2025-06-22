@@ -25,6 +25,6 @@ SimpleSwap is a minimal Automated Market Maker (AMM) smart contract written in S
 
 ## **Deployment**
 
-1. Deploy two ERC-20 tokens (e.g., using Remix and the OpenZeppelin Wizard).
+1. Deploy two ERC-20 tokens, you can use the ones in this repo or using Remix and the OpenZeppelin Wizard.
 2. Deploy `SimpleSwap` with the two token addresses.
 3. Provide initial liquidity using `addLiquidity`.
